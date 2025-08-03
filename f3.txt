@@ -6,3 +6,5 @@ public static void main!!
 Hello World
 
 Programmer
+
+int i = 10;
