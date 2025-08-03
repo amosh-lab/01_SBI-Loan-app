@@ -1,0 +1,10 @@
+#Task 102
+public void m(){
+public static void main!!
+}
+
+Hello World
+
+Programmer
+
+int x = 30;
