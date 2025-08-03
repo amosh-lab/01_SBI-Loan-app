@@ -12,6 +12,6 @@ int i = 10;
 
 int z = 50;
 
-int d = o;
+ print hello;
 
 scanner sc= new scanner ();
