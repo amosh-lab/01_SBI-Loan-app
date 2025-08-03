@@ -3,7 +3,6 @@ public void m(){
 public static void main!!
 }
 
-Hello World
 
 Programmer
 
@@ -14,3 +13,5 @@ int i = 10;
 int z = 50;
 
 int d = o;
+
+scanner sc= new scanner ();
