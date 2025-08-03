@@ -8,3 +8,6 @@ Hello World
 Programmer
 
 int x = 30;
+
+int i = 10;
+
